@@ -1,4 +1,8 @@
 <div id="header" align="center">
+ <h1>
+  Всем 
+  <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif?cid=ecf05e47z0s83z0dojghsw0demdht5u3yzxywuenc49tcf0x&rid=giphy.gif&ct=ts" width="50px"/>
+</h1>
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="120"/>
   
 <div id="badges">
@@ -13,7 +17,4 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=IbrohmY&style=flat-square&color=yellow" alt=""/>
-<h1>
-  Всем 
-  <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif?cid=ecf05e47z0s83z0dojghsw0demdht5u3yzxywuenc49tcf0x&rid=giphy.gif&ct=ts" width="50px"/>
-</h1>
+
