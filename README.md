@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="800" height="350"/>
  <h1>
-  Всем 
+  Coming soon:)
   <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif?cid=ecf05e47z0s83z0dojghsw0demdht5u3yzxywuenc49tcf0x&rid=giphy.gif&ct=ts" width="50px"/>
 </h1>
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="120"/>
